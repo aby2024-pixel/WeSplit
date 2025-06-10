@@ -1,1 +1,1 @@
-In this project, i am goinng to build a check-splitting app that you use after eating at restaurant- you enter the cost of your food, select how much of a tip yo want to leave, and how many people you are with and it will tell you how much each person needs to pay.
+In this project, i build a check-splitting app that you use after eating at restaurant- you enter the cost of your food, select how much of a tip you want to leave, and how many people you are with and it will tell you how much each person needs to pay.
